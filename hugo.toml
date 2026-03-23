@@ -1,0 +1,9 @@
+baseURL = "https://sisy.team/"
+languageCode = "en-us"
+title = "SISY Team — Organizer Tools for Better Speaker Lineups"
+
+[params]
+  description = "SISY Team gives event organizers a full speaker sourcing workspace — searchable expert database, panel builder, diversity reports, and shortlist management. Build better lineups, systematically."
+
+[markup.goldmark.renderer]
+  unsafe = true
