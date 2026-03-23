@@ -1,7 +1,7 @@
-# sisy.team — Organizer & B2B Tools
+# sisy.team - Organizer & B2B Tools
 
 **Domain:** sisy.team
-**Role:** B2B SaaS — Event organizer tools
+**Role:** B2B SaaS - Event organizer tools
 **Priority:** Phase 2
 **Notion:** See SISY Domain Strategy page
 
