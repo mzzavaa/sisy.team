@@ -2,8 +2,8 @@
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {
-  --clr-bg: #f4faf9;
-  --clr-bg-alt: #ebf5f4;
+  --clr-bg: #f0faf8;
+  --clr-bg-alt: #e4f5f2;
   --clr-text: #0f2421;
   --clr-text-soft: #3d6560;
   --clr-accent: #2d8a7e;
@@ -20,8 +20,8 @@
 }
 
 [data-theme="dark"] {
-  --clr-bg: #0e1a18;
-  --clr-bg-alt: #142320;
+  --clr-bg: #0a1a17;
+  --clr-bg-alt: #0f2420;
   --clr-text: #e8f5f3;
   --clr-text-soft: #7ab5ae;
   --clr-accent: #4db8a4;
@@ -65,13 +65,13 @@ a:hover { color: var(--clr-accent-hover); }
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(244, 250, 249, 0.92);
+  background: rgba(240, 250, 248, 0.92);
   border-bottom: 1px solid var(--clr-border);
   backdrop-filter: blur(12px);
 }
 
 [data-theme="dark"] .nav {
-  background: rgba(14, 26, 24, 0.92);
+  background: rgba(10, 26, 23, 0.92);
 }
 
 .nav-inner {
